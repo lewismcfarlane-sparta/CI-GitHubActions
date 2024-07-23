@@ -4,6 +4,7 @@ package com.sparta.clf;
 public class BankAccount {
     private double balance;
     //random comment added to push to github
+    //random comment added to push to github
 
     // constructor
     public BankAccount(double initialBalance) {
